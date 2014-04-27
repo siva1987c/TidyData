@@ -20,7 +20,7 @@ Actions performed by the script
 
 6.Cast the melted dataset using dcast and calculate the mean of each variables based on subject and activity.
 
-7.write the casted dataset into the text file tidydata.txt
+7.Write the casted dataset into the text file tidydata.txt
 ===========================================================================================
 
 Assumptions 
