@@ -18,13 +18,13 @@ Actions performed by the script
 
 5.Melt the dataset based on the subject and activity combination
 
-6.Cast the melted dataset using dcast and calculate the mean of each variables based on subject and activity.
+6.Cast the melted dataset using dcast and calculate the mean of each variables based on subject and activity
 
 7.Write the casted dataset into the text file tidydata.txt
 ===========================================================================================
 
 Assumptions 
-1.Internals Signals data not considered.
+1.Inertial Signals data not considered.
 
 
 
